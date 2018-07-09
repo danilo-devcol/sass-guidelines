@@ -1,5 +1,5 @@
 
-# Longo Demais; Não Li
+# Algumas diretrizes
 
 Essas diretrizes são longas e, de vez em quando, é bom tê-las resumidas. Portanto, abaixo segue o resumo.
 
